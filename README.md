@@ -13,8 +13,6 @@ Easy:
 9.	Word Break: (https://leetcode.com/problems/word-break/)
 10.	Counting Bits: (https://leetcode.com/problems/counting-bits/)
 
-
-
 Medium:
 11.	Coin Change](https://leetcode.com/problems/coin-change/)
 12.	Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)
