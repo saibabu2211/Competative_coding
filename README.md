@@ -1,5 +1,6 @@
+# LeetCode Dynamic Programming Study Plan
 
-### Easy
+## Easy
 1. [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)  
 2. [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)  
 3. [House Robber](https://leetcode.com/problems/house-robber/)  
@@ -13,7 +14,7 @@
 
 ---
 
-### Medium
+## Medium
 11. [Coin Change](https://leetcode.com/problems/coin-change/)  
 12. [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)  
 13. [Unique Paths](https://leetcode.com/problems/unique-paths/)  
@@ -27,7 +28,7 @@
 
 ---
 
-### Hard
+## Hard
 21. [Edit Distance](https://leetcode.com/problems/edit-distance/)  
 22. [Wildcard Matching](https://leetcode.com/problems/wildcard-matching/)  
 23. [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/)  
@@ -41,7 +42,7 @@
 
 ---
 
-### Advanced
+## Advanced
 31. [Count Different Palindromic Subsequences](https://leetcode.com/problems/count-different-palindromic-subsequences/)  
 32. [Maximum Vacation Days](https://leetcode.com/problems/maximum-vacation-days/)  
 33. [Strange Printer](https://leetcode.com/problems/strange-printer/)  
@@ -53,3 +54,4 @@
 39. [Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/)  
 40. [Longest Chunked Palindrome Decomposition](https://leetcode.com/problems/longest-chunked-palindrome-decomposition/)  
 
+---
