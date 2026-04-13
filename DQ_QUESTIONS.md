@@ -60,7 +60,3 @@ A curated list of dynamic programming problems organized by difficulty.
 
 ---
 
-### 📌 Usage
-- Clone this repo or copy the list into your own notes.  
-- Track your progress by marking problems as **✅ Completed**, **⚡ In Progress**, or **❌ Not Started**.  
-- Great for interview prep and strengthening DP concepts.
